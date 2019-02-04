@@ -23,5 +23,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi suscipit fugit, 
 
 4. Under "get in touch", add an address: 100 Main St New York, NY 10001. It should be in line with the phone number and email. HINT: The map marker icon class for Font Awesome is "fas fa-map-marker"
 
+## Submission
+Please zip up the folder when you are finished and email it to melinda@gorubix.com for review. You may also upload it to DropBox or Google drive and email the link.
+
 ## Have questions?
 Email melinda@gorubix.com
